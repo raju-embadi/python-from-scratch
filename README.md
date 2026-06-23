@@ -158,28 +158,35 @@ This repository is a starting point for anyone who wants to learn Python from sc
 
 Keep exploring with simple examples, practice often, and build your confidence step by step.
 
-Amazon
+## Amazon Product Suggestion Flow
 
-Suggests products.
+Amazon suggests products:
 
+```
 You buy a phone
       ↓
 Python analyzes
       ↓
 Suggests accessories
-ChatGPT
+```
 
-A lot of AI systems are built using Python.
+## ChatGPT Flow
 
+A lot of AI systems are built using Python:
+
+```
 Question
     ↓
 AI Processing
     ↓
 Answer
-Why Do Companies Love Python?
+```
+
+## Why Do Companies Love Python?
 
 Because it helps them:
 
+```
 Reduce manual work
        ↓
 Save time
@@ -187,17 +194,19 @@ Save time
 Reduce errors
        ↓
 Increase productivity
-One Example Related to Your MuleSoft Work
+```
 
-Suppose production support receives:
+## One Example Related to Production 
 
-500 API errors
+**Suppose production support receives:**
+
+- 500 API errors
 
 Instead of checking manually:
 
 Python can:
 
-Read logs
+- Read logs
       ↓
 Find failed APIs
       ↓
